@@ -1,0 +1,23 @@
+{
+  "upload_type": "dataset",
+  "title": "Data tables for “Sediment cover in bedrock step-pool channels counter-intuitively increases with increasing water discharge”",
+  "version": "3",
+  "creators": [
+    {
+      "name": "Robinson, Michael",
+      "affiliation": "University of Nevada, Reno"
+    }
+  ],
+  "description": "The tables (Tables 1 to 3 and S1 to S17) of the paper “Sediment cover in bedrock step-pool channels counter-intuitively increases with increasing water discharge” by Albarran Ayala, Robinson, Takase, Inoue and Scheingross (Journal of Geophysical Research: Earth Surface, manuscript 2025JF008956R, in revision), one sheet per table, as revised for the second round of review in October 2026. Version 3 replaces the round 1 tables of version 2. README.md lists every sheet and its columns, and says what changed since version 2.",
+  "keywords": [
+    "bedrock river",
+    "step-pool",
+    "sediment cover",
+    "flume experiment",
+    "nappe flow",
+    "skimming flow",
+    "OpenFOAM"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open"
+}
